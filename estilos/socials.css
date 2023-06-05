@@ -16,7 +16,7 @@ img {
 }
 a {
     display: block;
-    background-color: rgb(18, 58, 179);
+    background-color: rgb(88, 42, 114);
     padding: 20px;
     text-align: center;
     font-weight: bold;
@@ -24,7 +24,7 @@ a {
     color: black;
 }
 a:hover {
-    background-color: rgba(20, 117, 149, 0.697);
+    background-color: rgba(106, 10, 106);
     color: white;
     transition: .5s;
 }
